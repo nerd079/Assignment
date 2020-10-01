@@ -3,7 +3,7 @@
 
 h1 {
     font-family: 'Kanit', sans-serif;
-    font-size: xx-large ;
+    font-size: 38px;
     background-color: bisque;
 }
 
@@ -28,9 +28,9 @@ h3 {
 }
 
 img {
-    border-radius: 80%;
+    border-radius: 50%
 }
 
 body{
-    background-color: black;
+    background-color: aqua;
 }
