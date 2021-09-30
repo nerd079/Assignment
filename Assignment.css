@@ -10,11 +10,12 @@ h1 {
 h2 {
     font-family: 'Kanit', sans-serif;
     background-color: bisque;
+    font-size: 22px;
 }
 
 p {
     font-family: 'Kanit', sans-serif;
-    color: whitesmoke;  
+    color: whitesmoke;
 }
 
 ul {
@@ -24,7 +25,8 @@ ul {
 
 h3 {
     font-family: 'Kanit', sans-serif;
-    color: whitesmoke;  
+    color: whitesmoke; 
+    font-size: 22px;
 }
 
 img {
